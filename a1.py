@@ -1,6 +1,4 @@
 #Name: Carlton Valerian Gnanamalai
-#Student Id: 501201587
-#CPS-109:Assignment-1
 #Topic- Rock-Paper-Scissors game
 """ Create a rock,paper,scissors game with the computer in which rock beats scissors, scissors beats paper and paper beats rock. 
     The computer makes a random choice and the user inputs his/her choice and then the game is played.
